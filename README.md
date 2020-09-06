@@ -6,7 +6,7 @@ Go to the https://dartpad.dartlang.org/ website, which allows you to run stand-a
 
 ## Instructions
 For this lab, you will explore some of the features around functions and classes in the Dart programming language.
-
+ 
 Solve the following problems using Dart:
 
 1. Given a list of (`double`) grades (between `0` and `100`), use the `map` method with a lambda function to generate a list of grades scaled to within the range of `0`-`30`, followed by an increase of `2` (`grades` will then be between `2` and `32`).
